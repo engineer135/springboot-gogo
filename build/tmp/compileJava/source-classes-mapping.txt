@@ -1,11 +1,25 @@
+com/springboot/gogo/first/domain/posts/PostsRepository.java
+ com.springboot.gogo.first.domain.posts.PostsRepository
+com/springboot/gogo/first/web/dto/PostsUpdateRequestDto.java
+ com.springboot.gogo.first.web.dto.PostsUpdateRequestDto
+ com.springboot.gogo.first.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
+com/springboot/gogo/first/web/HelloController.java
+ com.springboot.gogo.first.web.HelloController
+com/springboot/gogo/first/web/dto/HelloResponseDto.java
+ com.springboot.gogo.first.web.dto.HelloResponseDto
+com/springboot/gogo/first/service/posts/PostsService.java
+ com.springboot.gogo.first.service.posts.PostsService
+com/springboot/gogo/first/web/dto/PostsSaveRequestDto.java
+ com.springboot.gogo.first.web.dto.PostsSaveRequestDto
+ com.springboot.gogo.first.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
 com/springboot/gogo/first/domain/posts/Posts.java
  com.springboot.gogo.first.domain.posts.Posts
  com.springboot.gogo.first.domain.posts.Posts$PostsBuilder
 com/springboot/gogo/first/Application.java
  com.springboot.gogo.first.Application
-com/springboot/gogo/first/web/HelloController.java
- com.springboot.gogo.first.web.HelloController
-com/springboot/gogo/first/web/dto/HelloResponseDto.java
- com.springboot.gogo.first.web.dto.HelloResponseDto
-com/springboot/gogo/first/domain/posts/PostsRepository.java
- com.springboot.gogo.first.domain.posts.PostsRepository
+com/springboot/gogo/first/domain/BaseTimeEntity.java
+ com.springboot.gogo.first.domain.BaseTimeEntity
+com/springboot/gogo/first/web/PostsApiController.java
+ com.springboot.gogo.first.web.PostsApiController
+com/springboot/gogo/first/web/dto/PostsResponseDto.java
+ com.springboot.gogo.first.web.dto.PostsResponseDto
