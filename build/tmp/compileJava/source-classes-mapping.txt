@@ -1,6 +1,11 @@
+com/springboot/gogo/first/domain/posts/Posts.java
+ com.springboot.gogo.first.domain.posts.Posts
+ com.springboot.gogo.first.domain.posts.Posts$PostsBuilder
 com/springboot/gogo/first/Application.java
  com.springboot.gogo.first.Application
-com/springboot/gogo/first/web/dto/HelloResponseDto.java
- com.springboot.gogo.first.web.dto.HelloResponseDto
 com/springboot/gogo/first/web/HelloController.java
  com.springboot.gogo.first.web.HelloController
+com/springboot/gogo/first/web/dto/HelloResponseDto.java
+ com.springboot.gogo.first.web.dto.HelloResponseDto
+com/springboot/gogo/first/domain/posts/PostsRepository.java
+ com.springboot.gogo.first.domain.posts.PostsRepository
