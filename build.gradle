@@ -38,5 +38,8 @@ dependencies {
     // spring data jpa
     compile('org.springframework.boot:spring-boot-starter-data-jpa')
     compile('com.h2database:h2')
+
+    // mustache
+    compile('org.springframework.boot:spring-boot-starter-mustache')
 }
 

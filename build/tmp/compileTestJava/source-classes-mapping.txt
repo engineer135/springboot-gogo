@@ -6,3 +6,5 @@ com/springboot/gogo/first/web/PostsApiControllerTest.java
  com.springboot.gogo.first.web.PostsApiControllerTest
 com/springboot/gogo/first/domain/posts/PostsRepositoryTest.java
  com.springboot.gogo.first.domain.posts.PostsRepositoryTest
+com/springboot/gogo/first/web/IndexControllerTest.java
+ com.springboot.gogo.first.web.IndexControllerTest
