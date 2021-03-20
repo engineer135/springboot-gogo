@@ -1,7 +1,8 @@
 com/springboot/gogo/first/service/posts/PostsService.java
  com.springboot.gogo.first.service.posts.PostsService
-com/springboot/gogo/first/web/IndexController.java
- com.springboot.gogo.first.web.IndexController
+com/springboot/gogo/first/web/dto/PostsUpdateRequestDto.java
+ com.springboot.gogo.first.web.dto.PostsUpdateRequestDto
+ com.springboot.gogo.first.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
 com/springboot/gogo/first/domain/user/Role.java
  com.springboot.gogo.first.domain.user.Role
 com/springboot/gogo/first/domain/posts/Posts.java
@@ -40,6 +41,11 @@ com/springboot/gogo/first/web/PostsApiController.java
  com.springboot.gogo.first.web.PostsApiController
 com/springboot/gogo/first/web/dto/PostsListResponseDto.java
  com.springboot.gogo.first.web.dto.PostsListResponseDto
-com/springboot/gogo/first/web/dto/PostsUpdateRequestDto.java
- com.springboot.gogo.first.web.dto.PostsUpdateRequestDto
- com.springboot.gogo.first.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
+com/springboot/gogo/first/web/IndexController.java
+ com.springboot.gogo.first.web.IndexController
+com/springboot/gogo/first/config/WebConfig.java
+ com.springboot.gogo.first.config.WebConfig
+com/springboot/gogo/first/config/auth/LoginUserArgumentResolver.java
+ com.springboot.gogo.first.config.auth.LoginUserArgumentResolver
+com/springboot/gogo/first/config/auth/LoginUser.java
+ com.springboot.gogo.first.config.auth.LoginUser
