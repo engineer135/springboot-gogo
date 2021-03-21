@@ -1,10 +1,10 @@
+com/springboot/gogo/first/web/IndexControllerTest.java
+ com.springboot.gogo.first.web.IndexControllerTest
 com/springboot/gogo/first/web/dto/HelloResponseDtoTest.java
  com.springboot.gogo.first.web.dto.HelloResponseDtoTest
-com/springboot/gogo/first/web/HelloControllerTest.java
- com.springboot.gogo.first.web.HelloControllerTest
 com/springboot/gogo/first/web/PostsApiControllerTest.java
  com.springboot.gogo.first.web.PostsApiControllerTest
 com/springboot/gogo/first/domain/posts/PostsRepositoryTest.java
  com.springboot.gogo.first.domain.posts.PostsRepositoryTest
-com/springboot/gogo/first/web/IndexControllerTest.java
- com.springboot.gogo.first.web.IndexControllerTest
+com/springboot/gogo/first/web/HelloControllerTest.java
+ com.springboot.gogo.first.web.HelloControllerTest

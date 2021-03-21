@@ -7,8 +7,9 @@ com/springboot/gogo/first/domain/user/Role.java
 com/springboot/gogo/first/domain/posts/Posts.java
  com.springboot.gogo.first.domain.posts.Posts
  com.springboot.gogo.first.domain.posts.Posts$PostsBuilder
-com/springboot/gogo/first/Application.java
- com.springboot.gogo.first.Application
+com/springboot/gogo/first/config/auth/dto/OAuthAttributes.java
+ com.springboot.gogo.first.config.auth.dto.OAuthAttributes
+ com.springboot.gogo.first.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
 com/springboot/gogo/first/web/dto/PostsUpdateRequestDto.java
  com.springboot.gogo.first.web.dto.PostsUpdateRequestDto
  com.springboot.gogo.first.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
@@ -46,6 +47,7 @@ com/springboot/gogo/first/web/PostsApiController.java
  com.springboot.gogo.first.web.PostsApiController
 com/springboot/gogo/first/config/auth/CustomOAuth2UserService.java
  com.springboot.gogo.first.config.auth.CustomOAuth2UserService
-com/springboot/gogo/first/config/auth/dto/OAuthAttributes.java
- com.springboot.gogo.first.config.auth.dto.OAuthAttributes
- com.springboot.gogo.first.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
+com/springboot/gogo/first/Application.java
+ com.springboot.gogo.first.Application
+com/springboot/gogo/first/config/JpaConfig.java
+ com.springboot.gogo.first.config.JpaConfig

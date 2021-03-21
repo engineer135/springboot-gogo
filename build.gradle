@@ -47,5 +47,8 @@ dependencies {
 
     // db를 세션 저장소로 사용
     compile('org.springframework.session:spring-session-jdbc')
+
+    // 시큐리티 테스트를 위한
+    testCompile("org.springframework.security:spring-security-test")
 }
 
