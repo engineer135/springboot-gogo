@@ -50,5 +50,8 @@ dependencies {
 
     // 시큐리티 테스트를 위한
     testCompile("org.springframework.security:spring-security-test")
+
+    // mariaDB
+    compile("org.mariadb.jdbc:mariadb-java-client")
 }
 
