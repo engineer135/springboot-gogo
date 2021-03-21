@@ -11,11 +11,12 @@
             </div>
             <!--로그인 기능 영역-->
             {{#userName}}
-                Logged in as : <span id=""user">{{userName}}</span>
+                Logged in as : <span id="user">{{userName}}</span>
                 <a href="/logout" calss="btn btn-info active" role="button">Logout</a>
             {{/userName}}
             {{^userName}}
                 <a href="/oauth2/authorization/google" class="btn btn-success active" role="button">Google Login</a>
+                <a href="/oauth2/authorization/naver" class="btn btn-secondary active" role="button">Naver Login</a>
             {{/userName}}
         </div>
         <br>
