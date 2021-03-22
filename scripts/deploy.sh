@@ -9,7 +9,7 @@ cp $REPOSITORY/zip/*.jar $REPOSITORY/
 
 echo "> 현재 구동중인 애플리케이션 pid 확인"
 
-CURRET_PID=$(pgrep -fl springboot-gogo |grep jar| awk '{print $1}')
+CURRET_PID=$(pgrep -fl springboot-gogo | awk '{print $1}')
 
 echo "현재 구동중인 애플리케이션 pid : $CURRET_PID"
 
