@@ -9,6 +9,7 @@ buildscript{
     dependencies {
         classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
     }
+
 }
 
 apply plugin: 'java'
@@ -53,5 +54,9 @@ dependencies {
 
     // mariaDB
     compile("org.mariadb.jdbc:mariadb-java-client")
+
+    // webSocket
+    compile("org.springframework.boot:spring-boot-starter-websocket")
+
 }
 

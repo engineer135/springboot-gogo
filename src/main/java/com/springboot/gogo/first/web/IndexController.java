@@ -42,4 +42,9 @@ public class IndexController {
         return "posts-update";
     }
 
+    @GetMapping("/chat")
+    public String chat(){
+        return "chat";
+    }
+
 }
